@@ -1,0 +1,16 @@
+.searchList{
+    columns: 300px 5;
+    column-gap: 10px;
+}
+.item-image{
+  width: 100%;
+}
+.search{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 10px 50px;
+}
+.search-input{
+  width: 100%;
+}
